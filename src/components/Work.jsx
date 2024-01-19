@@ -6,7 +6,7 @@ import portfolio from "../assets/projects/portfolio.jpg";
 
 const Work = () => {
   return (
-    <div name="work" className="w-full h-screen text-gray-300 bg-custom1 ">
+    <div name="work" className="w-full sm:h-screen text-gray-300 bg-custom1 ">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-pink-600">
@@ -83,8 +83,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100 overflow-hidden">
               <h3 className="text-2xl font-bold text-white tracking-wider text-center">
-                Adidas <br />
-                (lattest project)
+                Adidas
               </h3>
               <div className="pt-8 gap-2 flex justify-center ">
                 <a href="https://kerekes-adidas.netlify.app/" target="_blank">
