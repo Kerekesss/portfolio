@@ -20,6 +20,9 @@
   }
 }
 
+.height {
+  min-height: 100vh;
+}
 .content-div {
   background-repeat: no-repeat;
   background-size: cover;
