@@ -19,32 +19,9 @@ const About = () => {
           </div>
           <div>
             <p>
-              My journey into the world of web development began in a high
-              school class called "Web Design". It was there that I first dipped
-              my toes into the world of HTML and CSS. Fast forward a few years,
-              and here I am, fully immersed in the world of programming because,
-              well, it turned out to be my destiny, and I absolutely love it.
-              <br />
-              I kicked off my programming adventure by revisiting the basics,
-              refreshing my knowledge of HTML and CSS. As I delved deeper,
-              JavaScript quickly became my language of choice for bringing
-              interactivity to the web. The pivotal moment, though, was when I
-              embraced React.js and crafted my first front-end project. The
-              thrill of seeing my code come to life sparked a passion that
-              continues to drive me every day. <br />
-              Since that first project, I've been on a relentless journey of
-              growth. Each day presents an opportunity to explore new projects,
-              conquer programming challenges, and refine my skills. The process
-              of learning is what keeps me hooked, there's always something new
-              to discover and create. <br />
-              As I ventured further, I integrated Bootstrap and Tailwind CSS
-              into my toolkit, elevating my ability to build sleek, responsive,
-              and visually appealing interfaces. It's not just about the code;
-              it's about crafting digital experiences that leave a mark. <br />
-              Beyond the code, I thrive on being part of a community that values
-              collaboration and knowledge sharing. The tech world is dynamic,
-              and I stay current by embracing new technologies and learning from
-              the experiences of others.
+            My journey into web development began with FreeCodeCamp, where I created my first front-end projects and laid a strong foundation in HTML and CSS. As I progressed, I expanded my skills by diving into JavaScript, eventually embracing React.js to build dynamic, interactive web applications.
+            To strengthen my back-end expertise, I completed an in-depth PHP course under the guidance of a senior developer. This training allowed me to create my first full-stack website, combining PHP and MySQL to manage data and functionality effectively.
+            Over time, I added tools like Tailwind CSS to my skillset, enhancing my ability to design clean, responsive user interfaces. Today, I focus on creating functional, user-friendly websites with a balance of front-end and back-end technologies.
             </p>
           </div>
         </div>
