@@ -19,12 +19,12 @@ const About = () => {
           </div>
           <div>
             <p>
-            My journey into web development began with FreeCodeCamp, where I created my first front-end projects and laid a strong foundation in HTML and CSS. <br /> 
-            As I progressed, I expanded my skills by diving into JavaScript, eventually embracing React.js to build dynamic, interactive web applications. <br />
-            To strengthen my back-end expertise, I completed an in-depth PHP course under the guidance of a senior developer. This training allowed me to create my first full-stack website, combining PHP and MySQL to manage data and functionality effectively. 
-            Shortly after, I secured a role as a Software Engineer, where I further developed my skills in real-world projects. <br />
-            Over time, I added tools like Tailwind CSS to my skillset, enhancing my ability to design clean, responsive user interfaces. <br />
-            I like programming because it helps solve problems and create useful solutions. Every project teaches me something new and helps me improve my skills.
+            I started learning web development at FreeCodeCamp, where I built my first front-end projects and learned the basics of HTML and CSS. <br />
+            As I continued learning, I improved my skills in JavaScript and started using React.js to create interactive web applications. <br />
+            To learn back-end development, I took a PHP course with a senior developer, which helped me build my first full-stack website using PHP and MySQL. Soon after, I got a job as a Software Engineer, where I worked on real-world projects and developed my skills further. <br />
+            I also learned to use tools like Tailwind CSS to create responsive and easy-to-use interfaces. <br />
+            Why did i choose programming? <br />
+            Programming allows me to be challenged, think about solutions, and continuously improve my skills with every project I take on.
             </p>
           </div>
         </div>
