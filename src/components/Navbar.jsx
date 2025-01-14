@@ -119,7 +119,7 @@ const Navbar = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
-              href="https://drive.google.com/file/d/1orzyXed38FkEDc3gEi-Ms58INUaej-GY/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1LhpkT4qO6EEOuMcqvJF5KguSwHdFUiJs/view?usp=sharing"
               target="_blank"
               className="flex justify-between items-center w-full text-gray-300"
             >
@@ -162,7 +162,7 @@ const Navbar = () => {
             </li>
             <li className="w-[50px] h-[35px] flex justify-between items-center   bg-[#565f69]">
               <a
-                href="https://drive.google.com/file/d/1orzyXed38FkEDc3gEi-Ms58INUaej-GY/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1LhpkT4qO6EEOuMcqvJF5KguSwHdFUiJs/view?usp=sharing"
                 target="_blank"
                 className="flex justify-center items-center w-full "
               >
